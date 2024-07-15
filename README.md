@@ -44,8 +44,8 @@ $env:NODE_ENV="stage"
 npm start
 
 # Testing
-# http://localhost:3000/port (for .env.dev)
-# http://localhost:3000/port (for .env.stage)
+http://localhost:3000/port (for .env.dev)
+http://localhost:3000/port (for .env.stage)
 
 # File Structure
 .

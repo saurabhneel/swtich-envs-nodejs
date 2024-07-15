@@ -19,8 +19,11 @@ npm install
 Environment Configuration
 This project uses dotenv to manage environment variables. Depending on the value of NODE_ENV, it loads the corresponding .env file.
 
-# Development environment: .env.dev
-# Staging environment: .env.stage
+# Development environment: 
+.env.dev
+# Staging environment:
+.env.stage
+
 Create these files in the env folder within the root directory with the necessary environment variables.
 
 Example of .env.dev
